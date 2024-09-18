@@ -9,7 +9,7 @@
 *Tech Stack:*
 
 - *Frontend:* HTML, CSS, JavaScript, React JS
-- *Backend:* Python, Flask
+- *Programming language:* Python,
 - *Tools:* Git, GitHub, Visual Studio Code
 
 
