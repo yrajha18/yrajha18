@@ -81,12 +81,26 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yrajha18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrajha18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<!-- Contribution Chart - Powered by ghchart.rshah.org (very reliable) -->
+  <img src="https://ghchart.rshah.org/yrajha18" alt="Yash Raj's GitHub Contribution Chart" width="100%" />
+
 </div>
-<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrajha18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+
+<!-- Activity Graph - different service from readme-stats, much more reliable -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yrajha18&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- Reliable repository-level badges from shields.io (always works) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Repos-10-0e75b6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20TS%20%7C%20HTML-F7DF1E?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20FullStack-9f7aea?style=for-the-badge&logo=sparkles" />
 </div>
 
 ---
